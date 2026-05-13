@@ -1,48 +1,63 @@
 ## 👋 Hi, I'm Sparsh Agarwal
 
-**Founder @ Bio Symbiosis** | Full-Stack Developer & AI Builder
+**Founder @ Bio Symbiosis**  
+*Full-Stack Developer & AI Builder*
 
-**React • TypeScript • Node.js • Python** | Building the future of sustainable industrial ecosystems.
+Building sustainable industrial ecosystems and intelligent AI tools.
+
+<p align="center">
+  <a href="https://github.com/senecaSparsh?tab=repositories"><img src="https://img.shields.io/badge/Repositories-14-181717?style=for-the-badge&logo=github"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Contributions-573%20this%20year-brightgreen?style=for-the-badge"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Tech-React%20%7C%20TypeScript%20%7C%20Python-blue?style=for-the-badge"/></a>
+</p>
 
 ---
 
 ### 🚀 Currently Building
 
-**Bio-Industrial Symbiosis Marketplace** — A platform that connects industries to exchange by-products, waste, and resources, creating circular economies and reducing environmental impact.
+**Bio-Industrial Symbiosis Marketplace** — A platform connecting industries to exchange by-products and waste, creating circular economies and reducing environmental impact.
 
-I'm fully focused on growing this startup and turning the vision into reality.
+I'm fully focused on growing this startup.
 
-- 📍 Based in Muradnagar, Uttar Pradesh, India
+- 📍 Muradnagar, Uttar Pradesh, India  
 - 🎓 Computer Programming & Analysis @ Seneca College
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠 Tech Stack
 
-**Frontend:** React.js, Next.js, TypeScript, Tailwind CSS  
-**Backend & APIs:** Node.js, Express, Python, REST  
-**AI & Automation:** Ollama, LangChain, AI Agents, LLMs  
-**Other:** Vercel, Git, PostgreSQL, C++, Oracle
+<div align="center">
+
+**Frontend**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+
+**Backend & AI**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+
+**Tools & Cloud**  
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+</div>
 
 ---
 
-### 🌟 Other Projects
+### 🌟 Featured Projects
 
 | Project | Description | Tech | Link |
 |---------|-------------|------|------|
-| **Franchise Distribution Hub** | Full-stack TypeScript platform for franchise management & logistics | TypeScript, React | [Repo](https://github.com/senecaSparsh/Franchise-Distribution-Hub) |
-| **Ollama Wrapper** | Clean tooling layer for running and managing local LLMs | TypeScript | [Repo](https://github.com/senecaSparsh/ollama-wrapper) |
-| **Agenthub** | Framework for building autonomous AI agent workflows | TypeScript | [Repo](https://github.com/senecaSparsh/Agenthub) |
-| **E-Residency Coop** | Digital residency & cooperative platform | TypeScript, Next.js | [Live Demo](https://e-residency-coop.vercel.app) • [Repo](https://github.com/senecaSparsh/e-residency-coop) |
+| **Bio-Industrial Symbiosis** | Sustainable marketplace for industrial by-product exchange | Next.js, TypeScript, AI | [Repo](https://github.com/senecaSparsh/bio-industrial-symbiosis-marketplace) |
+| **Franchise Distribution Hub** | Full-stack platform for franchise & logistics management | TypeScript, React | [Repo](https://github.com/senecaSparsh/Franchise-Distribution-Hub) |
+| **Ollama Wrapper** | Lightweight tooling for local LLMs & agents | TypeScript | [Repo](https://github.com/senecaSparsh/ollama-wrapper) |
+| **Agenthub** | Framework for autonomous AI agent workflows | TypeScript | [Repo](https://github.com/senecaSparsh/Agenthub) |
 
 ---
 
 ### 📫 Let's Connect
 
-- **Email:** sparshagarwal35@gmail.com
-- **LinkedIn:** [Add your LinkedIn profile link]
-- **X / Twitter:** [Add if you have one]
+- **Email:** sparshagarwal35@gmail.com  
+- **LinkedIn:** [Add your LinkedIn]  
+- **X:** [Add if you have]
 
 ---
 
-> Focused on building Bio Symbiosis — one sustainable connection at a time.
+> *Building Bio Symbiosis while exploring the edge of AI and full-stack development.*
