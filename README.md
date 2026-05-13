@@ -1,49 +1,48 @@
 ## 👋 Hi, I'm Sparsh Agarwal
 
-**Full-Stack Developer & AI Builder** | React • TypeScript • Node.js • Python
+**Founder @ Bio Symbiosis** | Full-Stack Developer & AI Builder
 
-Building scalable web applications, intelligent AI agents, and innovative marketplaces.
+**React • TypeScript • Node.js • Python** | Building the future of sustainable industrial ecosystems.
 
 ---
 
-### 🚀 About Me
+### 🚀 Currently Building
 
-Aspiring software engineer with a strong foundation in computer science and hands-on experience building modern full-stack applications and AI-powered solutions. Passionate about creating products that solve real-world problems.
+**Bio-Industrial Symbiosis Marketplace** — A platform that connects industries to exchange by-products, waste, and resources, creating circular economies and reducing environmental impact.
+
+I'm fully focused on growing this startup and turning the vision into reality.
 
 - 📍 Based in Muradnagar, Uttar Pradesh, India
-- 💼 Open to full-time opportunities & freelance projects
 - 🎓 Computer Programming & Analysis @ Seneca College
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Frontend:** React.js, Next.js, TypeScript, Tailwind CSS, JavaScript
-**Backend:** Node.js, Express, Python, REST APIs
-**AI & Tools:** Ollama, LangChain, AI Agents, LLMs
-**Databases & Cloud:** PostgreSQL, Vercel, Git
-**Other:** C++, Oracle, CSS, HTML
+**Frontend:** React.js, Next.js, TypeScript, Tailwind CSS  
+**Backend & APIs:** Node.js, Express, Python, REST  
+**AI & Automation:** Ollama, LangChain, AI Agents, LLMs  
+**Other:** Vercel, Git, PostgreSQL, C++, Oracle
 
 ---
 
-### 🌟 Featured Projects
+### 🌟 Other Projects
 
 | Project | Description | Tech | Link |
 |---------|-------------|------|------|
-| **Bio-Industrial Symbiosis Marketplace** | Innovative platform connecting industries for sustainable resource exchange | HTML, Modern Web | [Repo](https://github.com/senecaSparsh/bio-industrial-symbiosis-marketplace) |
-| **Franchise Distribution Hub** | Full-stack TypeScript application for franchise management & distribution | TypeScript, React | [Repo](https://github.com/senecaSparsh/Franchise-Distribution-Hub) |
-| **Ollama Wrapper** | Lightweight wrapper & tooling for local LLM orchestration | TypeScript | [Repo](https://github.com/senecaSparsh/ollama-wrapper) |
-| **Agenthub** | AI Agent platform for building autonomous workflows | TypeScript | [Repo](https://github.com/senecaSparsh/Agenthub) |
-| **E-Residency Coop** | Digital residency & cooperative platform (Live Demo) | TypeScript, Next.js | [Live Demo](https://e-residency-coop.vercel.app) • [Repo](https://github.com/senecaSparsh/e-residency-coop) |
+| **Franchise Distribution Hub** | Full-stack TypeScript platform for franchise management & logistics | TypeScript, React | [Repo](https://github.com/senecaSparsh/Franchise-Distribution-Hub) |
+| **Ollama Wrapper** | Clean tooling layer for running and managing local LLMs | TypeScript | [Repo](https://github.com/senecaSparsh/ollama-wrapper) |
+| **Agenthub** | Framework for building autonomous AI agent workflows | TypeScript | [Repo](https://github.com/senecaSparsh/Agenthub) |
+| **E-Residency Coop** | Digital residency & cooperative platform | TypeScript, Next.js | [Live Demo](https://e-residency-coop.vercel.app) • [Repo](https://github.com/senecaSparsh/e-residency-coop) |
 
 ---
 
 ### 📫 Let's Connect
 
-- **Email:** sparshagarwal35@gmail.com (or update with yours)
-- **LinkedIn:** [Add your LinkedIn]
-- **Portfolio:** [Coming soon]
+- **Email:** sparshagarwal35@gmail.com
+- **LinkedIn:** [Add your LinkedIn profile link]
+- **X / Twitter:** [Add if you have one]
 
 ---
 
-> "Building the future, one commit at a time."
+> Focused on building Bio Symbiosis — one sustainable connection at a time.
