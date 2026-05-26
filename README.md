@@ -62,8 +62,7 @@ I'm fully focused on growing this startup.
 ### 📫 Let's Connect
 
 - **Email:** sparshagarwal35@gmail.com  
-- **LinkedIn:** [Add your LinkedIn]  
-- **X:** [Add if you have]
+- **LinkedIn:** linkedin.com/in/sparsh-agarwal-b83772220  
 
 ---
 
